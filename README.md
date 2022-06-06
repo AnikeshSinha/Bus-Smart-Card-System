@@ -25,9 +25,13 @@ single road that connects both end of the town.
   otherwise user should not be able to exit.
   
       • Night time (23:00 - 6:00 swipe-in time) - 60 cents * (Number of stops travelled)
+      
       • Day time (6:00 - 23:00 swipe-in time) - 80 cents * (Number of stops traveled)
+      
       • If number of stations travelled is more than 5 then give 20% long distance
       discount for travel beyond 5 stops. The discount will be on number of stops
       beyond 5 and not for initial 5 stops.
+      
       • Give 10% Weekend discount on Saturdays and Sundays.
+      
       •Max fare can be 10 dollars
