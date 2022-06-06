@@ -1,0 +1,26 @@
+[
+    {
+        "FullName": "Anikesh",
+        "Email": "as@gmail.com",
+        "Password": "Asdf123@",
+        "Money": 4.560000000000002,
+        "Card_ID": "S3ID4Q",
+        "Register_Date": "07/06/2022"
+    },
+    {
+        "FullName": "Anikesh",
+        "Email": "asdf@gmail.com",
+        "Password": "Asdf1234@",
+        "Money": 9.04,
+        "Card_ID": "NWPS99",
+        "Register_Date": "07/06/2022"
+    },
+    {
+        "FullName": "Shaily",
+        "Email": "shaily@gmail.com",
+        "Password": "Asdf1234@",
+        "Money": 247.6,
+        "Card_ID": "BT7E2F",
+        "Register_Date": "07/06/2022"
+    }
+]
