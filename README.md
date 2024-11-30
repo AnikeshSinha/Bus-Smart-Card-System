@@ -18,7 +18,7 @@ single road that connects both end of the town.
   and swipe out when they exit. Card balance is automatically updated at swipe
   out.
   
-  4) Smart Card should have a minimum balance of 10 dollars at swipe-in.
+  4) Smart Card should have a minimum balance of 10 rupees at swipe-in.
 
   5) At swipe-out, system should calculate the fare based on below strategies. The
   fare must be deducted from the card. Card should have the sufficient balance
@@ -34,4 +34,4 @@ single road that connects both end of the town.
       
       • Give 10% Weekend discount on Saturdays and Sundays.
       
-      •Max fare can be 10 dollars
+      •Max fare can be 10 rupees
